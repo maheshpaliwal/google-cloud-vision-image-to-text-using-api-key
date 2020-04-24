@@ -1,0 +1,19 @@
+{
+  "name": "google-cloud-vision-image-to-text-using-api-key",
+  "version": "1.0.0",
+  "description": "Node js library to extract text from images using google cloud vision api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshpaliwal/google-cloud-vision-image-to-text-using-api-key.git"
+  },
+  "author": "Mahesh Paliwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheshpaliwal/google-cloud-vision-image-to-text-using-api-key/issues"
+  },
+  "homepage": "https://github.com/maheshpaliwal/google-cloud-vision-image-to-text-using-api-key#readme"
+}
